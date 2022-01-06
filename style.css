@@ -1,0 +1,87 @@
+body{ 
+    background-image: image();}
+
+.row nav{
+display:flex;
+flex-direction:row;
+}
+    .topnav {
+        letter-spacing:4px;
+        Padding:10px;
+        
+    }
+    .topnav a.active {
+        float:right;
+        padding:19px 25px;
+    
+    }
+    .topnav a {
+        float:right;
+        color:black;
+        text-align: center;
+        padding: 40px;
+        text-decoration:none;
+         font-size: 17px; 
+    padding-top: 80px;  }
+    
+
+
+         .logo{
+             width: 250px;
+         }
+    
+     .background1{
+       width: 100%;
+       height: 100%;
+     }
+     .background2{
+       width: 100%;
+       height: 100%;
+     }
+    .text1{
+        padding-right:50px;
+        font-family: Rozha One;
+        font-weight: 10;
+        font-style: normal;
+        font-size: 20px;
+        letter-spacing: .01em;
+        line-height:50px;
+        text-transform: none;
+    }
+
+    .tx1 {
+        font-style:normal;
+        font-size:35px;
+
+    }
+    .tx2{
+        font-style: oblique;
+        font-weight: lighter;
+    }
+
+
+    .box2{
+        background-color: #d646cc;
+        align-items:center;
+    }
+
+
+.title{
+    text-align: center;
+
+}
+.sec1 {
+ text-align:center;
+ text-decoration: underline #a5aad3 15px;
+}
+
+  
+
+.blog{
+    text-align: center;
+    padding-top:50px;
+    background-color:white;
+
+}
+
+
